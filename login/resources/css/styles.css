@@ -1,3 +1,11 @@
 .login-pf body {
-    background: DimGrey none;
+    background: #fff;
+}
+
+div.kc-logo-text {
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 80px;
+    margin: 0 auto;
 }
